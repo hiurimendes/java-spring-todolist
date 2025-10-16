@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "TodoListApplication",
+            "request": "launch",
+            "mainClass": "dev.hiurimendes.todolist.TodoListApplication",
+            "projectName": "todo-list"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-TodoListApplication<todo-list>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "dev.hiurimendes.todo_list.TodoListApplication",
+            "projectName": "todo-list",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
