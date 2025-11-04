@@ -11,7 +11,7 @@
 	<groupId>dev.hiurimendes</groupId>
 	<artifactId>todo-list</artifactId>
 	<version>1.0.0</version>
-	<name>Todo List</name>
+	<name>todo-list</name>
 	<description>Gerenciador de tarefas</description>
 	<url/>
 	<licenses>
